@@ -1,0 +1,8 @@
+items:
+- name: Web settings schema
+  href: index.md
+- name: <system.web> element (Web Settings)
+  href: system-web-element-web-settings.md
+  items:
+  - name: <applicationPool> element (Web Settings)
+    href: applicationpool-element-web-settings.md

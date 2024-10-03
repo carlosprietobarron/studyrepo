@@ -1,0 +1,24 @@
+items:
+- name: Cryptography settings schema
+  href: index.md
+- name: <mscorlib> element for cryptography settings
+  href: mscorlib-element-for-cryptography-settings.md
+  items:
+  - name: <cryptographySettings> element
+    href: cryptographysettings-element.md
+    items:
+    - name: <cryptoNameMapping> element
+      href: cryptonamemapping-element.md
+      items:
+      - name: <cryptoClasses> element
+        href: cryptoclasses-element.md
+        items:
+        - name: <cryptoClass> element
+          href: cryptoclass-element.md
+      - name: <nameEntry> element
+        href: nameentry-element.md
+    - name: <oidMap> element
+      href: oidmap-element.md
+      items:
+      - name: <oidEntry> element
+        href: oidentry-element.md
